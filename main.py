@@ -64,7 +64,7 @@ class OpenRouterSignup:
         self.password: str = ""
         self.jwt = None
         
-    async def generate_email(self, domain: str = "dpptd.com") -> str:
+    async def generate_email(self, domain: str = None) -> str:
         """Generates a random email address."""
         self.email_address = self.email_client.random_email(amount=1, domain=domain)[0]
         print(f"{Fore.CYAN}(!) Created email: {self.email_address}")
