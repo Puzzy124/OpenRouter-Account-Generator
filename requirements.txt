@@ -1,6 +1,3 @@
-selenium
 undetected-chromedriver
-curl-cffi
-colorama
-secmail
-aiofiles
+selenium
+emailnator
