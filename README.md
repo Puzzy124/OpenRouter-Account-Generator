@@ -17,4 +17,3 @@ python main.py
 
 > [!NOTE]
 > All account data is saved to accounts.json, including the api keys.
-> If you skid this, your a bum, your api is shit.
