@@ -3,8 +3,7 @@
  This simple python script generates infinite openrouter api keys 🔥
  
 > [!NOTE]
-> ~~Openrouter has added turnstiles and im to lazy to fix this as I already have hundreds of api keys, so if you want make a pr and Ill merge it.~~>
-
+> ~~Openrouter has added turnstiles and im to lazy to fix this as I already have hundreds of api keys, so if you want make a pr and Ill merge it.~~>\n
 > I updated it, well Copilot did (fully made with copilot for the most part while I was playing R6, vibe coding may be the future I'm not sure.)
 
 > [!WARNING]
